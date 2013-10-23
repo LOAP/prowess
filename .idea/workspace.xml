@@ -29,10 +29,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="2" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.6006826">
+            <state line="52" column="48" selection-start="1516" selection-end="1516" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="35" selection-start="904" selection-end="904" vertical-scroll-proportion="0.60750854">
               <folding />
             </state>
           </provider>
@@ -49,6 +58,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -438,7 +448,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="2" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.6006826">
+        <state line="52" column="48" selection-start="1516" selection-end="1516" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="35" selection-start="904" selection-end="904" vertical-scroll-proportion="0.60750854">
           <folding />
         </state>
       </provider>
